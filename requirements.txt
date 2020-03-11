@@ -1,0 +1,4 @@
+matplotlib==3.2.0
+numpy==1.18.1
+pandas==1.0.1
+python-chess==0.30.1
